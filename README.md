@@ -1,24 +1,22 @@
 # HowIStart
 
-TODO: Write a gem description
+HowIStart is a very simple example gem to show you how I begin a Ruby project.
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'how_i_start'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
+Install it yourself as:
 
     $ gem install how_i_start
 
 ## Usage
 
-TODO: Write usage instructions here
+Just run the executable:
+
+```
+$ how_i_start
+```
+
+And it will point you at the article.
 
 ## Contributing
 
